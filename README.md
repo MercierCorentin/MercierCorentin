@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I'm Corentin a full stack web developer based near Paris.
-
-
-<h4 align="center">
-:computer: Full stack Freelance web developer | :mag: Software safety apprentice at IRSN
-</h4>
+I'm Corentin a full stack web developer and Computer Science Engineneer based near Paris.
 
 
 :envelope: : corentin@cmercier.fr
