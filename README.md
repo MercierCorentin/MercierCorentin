@@ -3,7 +3,7 @@
 I'm Corentin a full stack web developer and Computer Science Engineneer based near Paris.
 
 
-:envelope: : corentin@cmercier.fr
+:envelope: : corentin.mercier@webanimus.com
 
 
 ## Technologies 
