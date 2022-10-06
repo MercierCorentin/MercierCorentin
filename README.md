@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Corentin a full stack web developer and Computer Science Engineneer based near Paris.
+I'm Corentin an Entrepreneur, Computer Science Engineneer and full stack web developer based near Paris.
 
 
 :envelope: : corentin.mercier@webanimus.com
